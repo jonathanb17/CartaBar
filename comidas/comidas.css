@@ -1,0 +1,16 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+    background-image: url('../img/01.jpg');
+    color: white;
+ text-align: center;
+}
+
+.menus{
+       box-shadow: 5px 10px 18px rgb(82, 70, 70);
+       background-color: rgb(39, 26, 26);
+       opacity: 0.9;   
+}
+
+.iconoVolver{
+       
+}

@@ -1,0 +1,11 @@
+body{
+    
+    background-image: url('../img/00.jpg');
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.imagen{
+    margin-bottom: 10px;
+    width: 118px;
+    opacity: 0.9;
+}
